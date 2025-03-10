@@ -1,4 +1,4 @@
-# Repository for the project, "Detecting Bridging Nodes and Weak Ties in Social Networks using Graph Neural Networks: AComparative Analysis of GCN and Node2Vec Algorithms"
+# Repository for the project, "Detecting Bridging Nodes and Weak Ties in Social Networks using Graph Neural Networks: A Comparative Analysis of GCN and Node2Vec Algorithms"
 
 Social interactions and information dissemination is key for understanding human behaviors and structures of our society, and graph analysis offers a powerful lens through which to comprehend these dynamics. By representing individuals as nodes and their interactions as edges within a graph, a nuanced understanding of relationships and network structures within groups, organizations, and society at large can be achieved.
 
